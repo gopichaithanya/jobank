@@ -1,0 +1,1 @@
+Brush up mock project for Hibernate - Spring framework for a Bank Solution model
